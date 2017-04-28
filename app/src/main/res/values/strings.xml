@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FriendsList</string>
+    <string name="facebook_app_id">423081411398434</string>
+    <string name="public_profile">public_profile</string>
+    <string name="fb_email">email</string>
+    <string name="fb_user_friends">user_friends</string>
+    <string name="friends">Friends</string>
+</resources>
